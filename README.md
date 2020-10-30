@@ -2,7 +2,7 @@
 
 this  will collects all DNS records like A,MX,AAAA,TXT,CNAME
 
-# INITIATION
+# RUNING PROCESS
 $ chmod 755 new.sh
 
 
